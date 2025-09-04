@@ -53,6 +53,20 @@
 			{
 				"navigationBarTitleText" : "demo7购物车"
 			}
+		},
+		{
+			"path" : "pages/demoShop/demoShop",
+			"style" : 
+			{
+				"navigationBarTitleText" : "demoShop"
+			}
+		},
+		{
+			"path" : "pages/demo8/demo8",
+			"style" : 
+			{
+				"navigationBarTitleText" : "demo8"
+			}
 		}
 	],
 	"globalStyle": {
