@@ -1,9 +1,9 @@
 <template>
 	<view class="out">
-		<view class="item" v-for="item in goods" :key="item.id">
+		<view class="item" v-for="(item,index) in goods" :key="item.id">
 			<checkbox></checkbox>
 			<text class="title">{{item.name}}</text>
-			<text class="del">删除</text>
+			<text class="del" @click="remove">删除</text>
 		</view>
 	</view>
 </template>
@@ -17,6 +17,10 @@ import { ref } from 'vue';
 		{id:33,name:"oppo"},
 		{id:44,name:"苹果"},
 	])
+	
+	function remove(e){
+		
+	}
 </script>
 
 <style lang="scss" scoped>
