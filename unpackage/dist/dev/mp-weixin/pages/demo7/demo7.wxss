@@ -23,16 +23,13 @@
 /* 垂直间距 */
 /* 透明度 */
 /* 文章场景相关 */
-.scrllView {
-  width: 80%;
-  height: 220px;
-  border: 1px solid red;
-  white-space: nowrap;
+.out.data-v-9595efcd {
+  padding: 5% 10px;
 }
-.box {
-  width: 100px;
-  height: 100px;
-  background: goldenrod;
-  display: inline-block;
-  margin: 5px;
+.out .item.data-v-9595efcd {
+  padding: 10px 0;
+}
+.out .item .del.data-v-9595efcd {
+  color: #c00;
+  margin-left: 30px;
 }

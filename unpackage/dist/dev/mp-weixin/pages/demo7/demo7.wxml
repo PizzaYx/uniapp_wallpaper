@@ -1,0 +1,1 @@
+<view class="out data-v-9595efcd"><view wx:for="{{a}}" wx:for-item="item" wx:key="b" class="item data-v-9595efcd"><checkbox class="data-v-9595efcd"></checkbox><text class="title data-v-9595efcd">{{item.a}}</text><text class="del data-v-9595efcd">删除</text></view></view>

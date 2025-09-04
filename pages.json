@@ -32,6 +32,27 @@
 			{
 				"navigationBarTitleText" : "demo4"
 			}
+		},
+		{
+			"path" : "pages/demo5/demo5",
+			"style" : 
+			{
+				"navigationBarTitleText" : "demo5"
+			}
+		},
+		{
+			"path" : "pages/demo6/demo6",
+			"style" : 
+			{
+				"navigationBarTitleText" : "demo6"
+			}
+		},
+		{
+			"path" : "pages/demo7/demo7",
+			"style" : 
+			{
+				"navigationBarTitleText" : "demo7购物车"
+			}
 		}
 	],
 	"globalStyle": {

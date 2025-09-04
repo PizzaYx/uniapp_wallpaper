@@ -23,16 +23,31 @@
 /* 垂直间距 */
 /* 透明度 */
 /* 文章场景相关 */
-.scrllView {
-  width: 80%;
-  height: 220px;
-  border: 1px solid red;
-  white-space: nowrap;
-}
-.box {
+.pic1 {
   width: 100px;
   height: 100px;
-  background: goldenrod;
-  display: inline-block;
-  margin: 5px;
+}
+.pic2 {
+  width: 150px;
+  height: 150px;
+}
+.pic3 {
+  height: 300px;
+}
+swiper {
+  width: 100vw;
+  height: 200px;
+  border: 1px solid green;
+}
+swiper swiper-item {
+  width: 100%;
+  height: 100%;
+  background: pink;
+}
+swiper swiper-item image {
+  width: 100%;
+  height: 100%;
+}
+swiper swiper-item:nth-child(2n) {
+  background: orange;
 }

@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["pages/demo1/index.vue?type=page"],"sourcesContent":["import MiniProgramPage from '/Users/yx/Documents/Vue3Projects/uniapp_wallpaper/pages/demo1/index.vue'\nwx.createPage(MiniProgramPage)"],"names":[],"mappings":";;;;;;;;;;;;;;;;AACA,GAAG,WAAW,eAAe;"}

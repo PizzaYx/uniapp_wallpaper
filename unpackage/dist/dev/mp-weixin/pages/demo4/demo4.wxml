@@ -1,0 +1,1 @@
+<view class="box" bindtap="{{b}}" style="{{'background:' + c}}">{{a}}</view><switch bindchange="{{d}}"/><button type="primary" loading="{{e}}">按钮</button>
