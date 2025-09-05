@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/classify/classify"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "YangX",
+    "navigationBarBackgroundColor": "#87cefa",
+    "backgroundColor": "#48d1cc",
+    "enablePullDownRefresh": true,
+    "backgroundTextStyle": "dark"
+  },
+  "usingComponents": {}
+}
