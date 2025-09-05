@@ -1,0 +1,1 @@
+<view class=" data-v-38ea93f3"><yx-layout class="data-v-38ea93f3" u-s="{{['header','main']}}" u-i="38ea93f3-0" bind:__l="__l"><view class="data-v-38ea93f3" slot="header">demo2头部</view><view class="box1 data-v-38ea93f3" slot="main">demo2main</view></yx-layout></view>

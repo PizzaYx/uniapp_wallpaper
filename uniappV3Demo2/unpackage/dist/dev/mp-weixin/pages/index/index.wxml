@@ -1,0 +1,1 @@
+<view class="content"><user-info wx:if="{{a}}" u-i="15199dfa-0" bind:__l="__l" u-p="{{a}}"></user-info><user-info u-i="15199dfa-1" bind:__l="__l"></user-info></view>

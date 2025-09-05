@@ -1,0 +1,1 @@
+<view class=" data-v-f557aef1"><yx-child class="data-v-f557aef1" bindadd="{{a}}" bindchange="{{b}}" u-i="f557aef1-0" bind:__l="__l"></yx-child><view class="box1 data-v-f557aef1" style="{{'background:' + d + ';' + ('font-size:' + e)}}">num:{{c}}</view></view>

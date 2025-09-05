@@ -28,6 +28,14 @@
         	{
         		"navigationBarTitleText" : "demo4"
         	}
+        },
+        {
+        	"path" : "pages/request/request",
+        	"style" : 
+        	{
+        		"navigationBarTitleText" : "接口测试",
+				"enablePullDownRefresh": true
+        	}
         }
     ],
     "globalStyle" : {
