@@ -1,0 +1,1 @@
+<view class="userInfo data-v-1e7cdf7b"><image src="{{a}}" mode="" class="avatar data-v-1e7cdf7b"></image><view class="userName data-v-1e7cdf7b">{{b}}</view><view class=" data-v-1e7cdf7b">{{c}}</view></view>

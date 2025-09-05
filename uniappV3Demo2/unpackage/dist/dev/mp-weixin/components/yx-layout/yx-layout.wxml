@@ -1,0 +1,1 @@
+<view class="layout data-v-dd77aeea"><view class="header data-v-dd77aeea"><slot name="header"></slot></view><view class="main data-v-dd77aeea"><slot name="main"></slot></view><view class="footer data-v-dd77aeea"> 底部区域 </view></view>

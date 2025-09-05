@@ -1,0 +1,1 @@
+<view><yx-layout u-s="{{['header','main']}}" class="vue" u-i="2421d8b2-0" bind:__l="__l"><view slot="header"> 首页头部 </view><view slot="main"> 首页mian </view></yx-layout></view>

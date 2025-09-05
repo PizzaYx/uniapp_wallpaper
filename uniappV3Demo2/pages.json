@@ -34,6 +34,15 @@
         	"style" : 
         	{
         		"navigationBarTitleText" : "demo5"
+            }
+        },
+        {    
+        	"path" : "pages/request/request",
+        	"style" : 
+        	{
+        		"navigationBarTitleText" : "接口测试",
+				"enablePullDownRefresh": true
+
         	}
         }
     ],

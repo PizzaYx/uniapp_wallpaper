@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "demo1",
+  "usingComponents": {
+    "yx-layout": "../../components/yx-layout/yx-layout"
+  }
+}
