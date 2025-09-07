@@ -1,0 +1,1 @@
+<view class="preview"><swiper><swiper-item wx:for="{{a}}" wx:for-item="item"><image src="{{b}}" mode=""></image></swiper-item></swiper></view>

@@ -1,0 +1,1 @@
+{"version":3,"file":"preview.js","sources":["../../../HBuilderX/plugins/uniapp-cli-vite/uniPage:/cGFnZXMvcHJldmlldy9wcmV2aWV3LnZ1ZQ"],"sourcesContent":["import MiniProgramPage from 'E:/Vue3Project/uniapp_wallpaper/wallpaper/pages/preview/preview.vue'\nwx.createPage(MiniProgramPage)"],"names":[],"mappings":";;;;;;;;;;;;;AACA,GAAG,WAAW,eAAe;"}
